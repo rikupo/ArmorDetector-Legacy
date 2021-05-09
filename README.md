@@ -1,3 +1,14 @@
+インターンシップ応募にあたり一時的に公開許可をもらい公開中  
+主に装甲板認識部を担当(armor_detector,yolo)
+チーム内wikiをもとに記述
+
+# Overview
+<img src="result/rm2-1.jpeg" width=30%>
+
+[RoboMaster](https://www.robomaster.jp/) での自動照準用の装甲版認識プログラム   
+intel NUC,Ubuntu18.04などを用いて開発
+詳細は[ArmorDetectorROS](https://github.com/rikupo/ArmorDetectorROS)のREDMEにて
+
 # DetectArmor
 装甲板検出プログラム ROI実装版 11/04版 OpenCV4.4対応版  
 OpenCV3系とOpenCV4系でホットワードが違うため互換性なし．  
